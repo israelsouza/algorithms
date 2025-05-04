@@ -6,3 +6,4 @@ Estarei implementando o mesmo algoritmo para linguagens diferentes, como forma d
 ### Índice
 
 1. [Busca Binária](./descriptions/binary-search.md)
+2. [Recursão](./descriptions/recursion.md)
